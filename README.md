@@ -58,6 +58,10 @@ for any processor to decompile this or understand what is going here <br>
 The binary shown left is the abi which is shown right <br>
 
 
+When we deploy this bytecode on blockchin and when we call functions on it <br>
+the code will automatiaclly allow those funtions to get called if they do exists <br>
+
+
 
 
 
