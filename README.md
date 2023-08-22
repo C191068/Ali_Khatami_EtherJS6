@@ -21,6 +21,29 @@ the contract object can come with all the functionality in our ABI <br>
 
 that is why we have to pass ABI to our contract factory <br>
 
+![d17](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/7fc55722-5fd4-48ef-bc7e-579ed17ae4f5)
+
+
+if we look inside our ABI piece here <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
