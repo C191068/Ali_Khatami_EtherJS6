@@ -28,6 +28,10 @@ if we look inside our ABI piece here <br>
 
 We can see it has ton of information of different functions that we can call <br>
 
+the types that it hs has , return type etc <br>
+
+
+
 
 
 
