@@ -70,7 +70,7 @@ Now we gonna conncet tour ganache instance
 
 ![d25](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/3d387b9a-0d74-44b2-8c09-90fd2ad3d8cf)
 
-We gonna collect a wallet <br>
+We gonna collect a wallet with a private key  <br>
 
 
 
