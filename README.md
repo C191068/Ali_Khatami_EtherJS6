@@ -88,6 +88,10 @@ that wallet will be the one to actually deploy the contract <br>
 
 We wil deploy the contract by using the above line of code <br>
 
+![d29](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/9d2ce158-a28d-4d6f-a86f-c72f9092d892)
+
+We will wait one block for that transaction to finish <br>
+
 
 
 
