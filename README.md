@@ -48,7 +48,11 @@ Here the above block of code defines what retrieve function can or can't do <br>
 Now i changed it back to abi <br>
 
 
-If we give our code just this huge byte code thing <br>
+If we give our code just this huge byte code thing it gonna be really hard <br>]
+for any processor to decompile this <br>
+
+
+
 
 
 
