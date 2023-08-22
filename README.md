@@ -26,6 +26,11 @@ that is why we have to pass ABI to our contract factory <br>
 
 if we look inside our ABI piece here <br>
 
+We can see it has ton of information of different functions that we can call <br>
+
+
+
+
 
 
 
