@@ -39,6 +39,10 @@ We have changed it from .abi to .json <br>
 
 then we will click ```Ctrl + S ``` and the above code will be readable <br>
 
+![d20](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/b104c0cb-95bc-495f-a509-988b6a8f6e60)
+
+Here the above block of code defines what retrieve function can or can't do <br>
+
 
 
 
