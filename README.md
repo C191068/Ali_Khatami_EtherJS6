@@ -10,6 +10,9 @@ We can alos learn to interact with our contract through code as well <br>
 
 Here we use the above line of code to retrieve current favorite  number <br>
 
-the contract object thet we have  <br>
+the contract object thet we have is what return from our contractfactory  <br>
+
+
+
 
 
