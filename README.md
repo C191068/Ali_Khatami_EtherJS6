@@ -15,6 +15,8 @@ as long as we awited it <br>
 
 the contract object can come with all the functionality in our ABI <br>
 
+that is why we have to pass ABI to our contract factory <br>
+
 
 
 
