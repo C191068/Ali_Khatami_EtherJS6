@@ -77,6 +77,9 @@ We gonna collect a wallet with a private key  <br>
 we gonna grab the abi and binary <br>
 
 
+![d27](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/d499bd2f-1f73-45eb-bc25-58b987eaf709)
+
+And connet abi and  binary to Contractfactory which is also connect to wallet <br>
 
 
 
