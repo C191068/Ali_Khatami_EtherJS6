@@ -13,6 +13,11 @@ Here we use the above line of code to retrieve current favorite  number <br>
 the contract object thet we have is what return from our contractfactory  <br>
 as long as we awited it <br>
 
+the contract object can come with all the functionality in our ABI <br>
+
+
+
+
 
 
 
