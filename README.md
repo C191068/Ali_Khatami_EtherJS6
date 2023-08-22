@@ -84,6 +84,9 @@ And connet abi and  binary to Contractfactory which is also connect to that wall
 that wallet will be the one to actually deploy the contract <br>
 
 
+![d28](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/0fcb2782-55d2-4095-877e-f4685747d843)
+
+We wil deploy the contract by using the above line of code <br>
 
 
 
