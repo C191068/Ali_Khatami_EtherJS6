@@ -53,6 +53,10 @@ If we give our code just this huge byte code thing it gonna be really hard <br>]
 for any processor to decompile this or understand what is going here <br>
 
 
+![d23](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/10f0c428-da75-436b-9771-5954d5d6b370)
+
+The binary shown left is the abi which is shown right <br>
+
 
 
 
