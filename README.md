@@ -72,6 +72,9 @@ Now we gonna conncet tour ganache instance
 
 We gonna collect a wallet with a private key  <br>
 
+![d26](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/010ea6b5-552a-4aa2-baf0-054d78743c5d)
+
+we gonna grab the abi and binary <br>
 
 
 
