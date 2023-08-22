@@ -47,6 +47,7 @@ Here the above block of code defines what retrieve function can or can't do <br>
 
 Now i changed it back to abi <br>
 
+![d22](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/ca5b08da-71e6-4fba-8cb6-74529a4b3469)
 
 If we give our code just this huge byte code thing it gonna be really hard <br>]
 for any processor to decompile this <br>
