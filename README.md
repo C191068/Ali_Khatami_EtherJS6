@@ -35,6 +35,10 @@ the types that it hs has , return type etc <br>
 We have changed it from .abi to .json <br>
 
 
+![d19](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/aeb102c8-e641-4bd9-988e-f9f9af5c1f50)
+
+then we will click ```Ctrl + S ``` and the above code will be readable <br>
+
 
 
 
