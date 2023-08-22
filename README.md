@@ -93,6 +93,10 @@ We wil deploy the contract by using the above line of code <br>
 We will wait one block for that transaction to finish <br>
 
 
+![d30](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/49220c6b-f105-4730-8c3d-b2d6baf6049d)
+
+Then we will call the above function to return our current favorite number <br>
+
 
 
 
