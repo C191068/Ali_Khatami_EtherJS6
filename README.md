@@ -64,8 +64,9 @@ the code will automatiaclly allow those funtions to get called if they do exists
 but in order for our code to know they exist it is much easier just to give it the ABI <br>
 
 
+![d24](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/67a0745e-295e-4b6d-99ea-954e43d449f2)
 
-
+Now we gonna conncet tour ganache instance 
 
 
 
