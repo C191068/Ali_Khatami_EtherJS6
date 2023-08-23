@@ -216,6 +216,9 @@ we are deploying the contarct <br>
 
 we are gettuing the initial value <br>
 
+![d47](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/09815462-e2f1-4cd7-ab66-e49d6be133cb)
+
+We gonna update our contarct by calling store <br>
 
 
 
