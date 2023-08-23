@@ -137,6 +137,11 @@ Most of the time we will see instaed of numbers we will see strings <br>
 
 we will see javascript use strings like this  ``` "100000000000" ```  <br>
 
+![d35](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/72b26c94-1464-4997-93f5-89a80a2e5ea1)
+
+We have made it more readable by adding toString() at the end <br>
+
+
 
 
 
