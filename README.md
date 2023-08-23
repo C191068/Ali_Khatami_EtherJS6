@@ -248,6 +248,10 @@ here we can see the transaction data <br>
 This transaction data is what get sent at data slot of our transaction object <br>
 
 
+Ethers is just doing that backend for us <br>
+
+so that we don't have to make big transaction object <br>
+
 
 
 
