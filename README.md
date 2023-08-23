@@ -124,6 +124,9 @@ we can find it at this link https://docs.ethers.org/v5/api/utils/bignumber/ <br>
 
 they also ahve a section called ```Why can't I just use numbers?``` <br>
 
+![d34](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/d558fe01-8cae-4f4c-8c03-e78fda0bf66f)
+
+We expect the currentfavorite number to return zero but return this weired hex thing <br>
 
 
 
