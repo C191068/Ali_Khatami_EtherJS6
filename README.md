@@ -109,6 +109,9 @@ It will not cost any gas <br>
 
 We are just reading of the blockchain but not changing any variable on chain  <br>
 
+So retrieve function will not cot any gas <br>
+
+
 
 
 
