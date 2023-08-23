@@ -204,6 +204,13 @@ Then we use the above line of code to update favorite number <br>
 
 then we use the above line of code for output at console <br>
 
+In this process we are doing the following <br>
+
+
+![d45](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/0ffa040e-57d0-4e49-ae7c-c4318162cba0)
+
+we are deploying the contarct <br>
+
 
 
 
