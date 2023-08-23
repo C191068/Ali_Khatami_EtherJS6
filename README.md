@@ -164,6 +164,9 @@ So we use the above code and tell javascript that it is a variable that we want 
 We put some dollar sign and bracket here <br>
 
 
+![d39](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/86dbbfc6-d1a4-47c0-a573-972206b06e51)
+
+we can get current favorite number equal to zero <br>
 
 
 
