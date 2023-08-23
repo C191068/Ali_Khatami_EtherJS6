@@ -185,6 +185,9 @@ Ethers is smart enough to know that that the aboe 7 string is actually <br>
 here we have to wait for one block confirmation <br>
 
 
+![d42](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/e74e56f8-3dfa-4359-9b10-c7c84a58a674)
+
+It is similiar to the above <br>
 
 
 
