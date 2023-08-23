@@ -107,7 +107,7 @@ If viw and pure function are called outside of the contarct function call <br>
 It will not cost any gas <br>
 
 
-We are just reading of the blockchain but not changing any state <br>
+We are just reading of the blockchain but not changing any variable on chain  <br>
 
 
 
