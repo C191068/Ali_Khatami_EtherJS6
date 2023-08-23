@@ -200,6 +200,11 @@ When we wait for the transaction to finish we get transaction receipt <br>
 
 Then we use the above line of code to update favorite number <br>
 
+![d44](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/7a9b21ce-3acc-4d4f-96e8-55874b6a8244)
+
+then we use the above line of code for output at console <br>
+
+
 
 
 
