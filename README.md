@@ -135,6 +135,9 @@ and this can be more rational for why not to use numbers <br>
 Most of the time we will see instaed of numbers we will see strings <br>
 
 
+we will see javascript use strings like this  ``` "100000000000" ```  <br>
+
+
 
 
 
