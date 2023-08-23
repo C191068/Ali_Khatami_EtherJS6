@@ -152,7 +152,7 @@ Now just amke our console.log a little bit more syntactical <br>
 
 We can use something called string interpolation <br>
 
-So we can interpolate our string with variable <br>
+So we can interpolate our string with variable and use the backtick symbol  <br>
 
 
 
