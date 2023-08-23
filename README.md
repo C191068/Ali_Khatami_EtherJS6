@@ -97,6 +97,10 @@ We will wait one block for that transaction to finish <br>
 
 Then we will call the above function to return our current favorite number <br>
 
+![d31](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/0edf1276-b865-46ec-a2ff-5b759b1b4be4)
+
+here we can see that retrieve is a view function <br>
+
 
 
 
