@@ -177,8 +177,10 @@ Now we wil update the contract by calling the store function <br>
 It is better to pass number as strings to contract functions  <br>
 Those will be little bit confusing than if we use numbers <br>
 
+Ethers is smart enough to know that that the aboe 7 string is actually <br>
+7 the number <br>
 
-\
+
 
 
 
