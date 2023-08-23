@@ -180,6 +180,10 @@ Those will be little bit confusing than if we use numbers <br>
 Ethers is smart enough to know that that the aboe 7 string is actually <br>
 7 the number <br>
 
+![d41](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/8ccb5776-19a1-41e7-811d-b9d43e0d6e3d)
+
+here we have to wait for one block confirmation <br>
+
 
 
 
