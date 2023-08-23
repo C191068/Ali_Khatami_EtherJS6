@@ -148,6 +148,8 @@ to print out the string version of the favorite number <br>
 Now if we re run this code we get zero which make sense because our favorite number get initialized to zero <br>
 
 
+Now just amke our console.log a little bit more syntactical <br>
+
 
 
 
