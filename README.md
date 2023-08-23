@@ -212,6 +212,10 @@ In this process we are doing the following <br>
 we are deploying the contarct <br>
 
 
+![d46](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/33504a4f-199f-41b1-9db4-e7e822418692)
+
+we are gettuing the initial value <br>
+
 
 
 
