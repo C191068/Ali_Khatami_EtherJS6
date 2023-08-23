@@ -225,7 +225,10 @@ So this is a transaction <br>
 
 ![d48](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/353d821a-a3f1-4758-b3d0-29b403254ade)
 
-So this is the transaction receipt <br>
+Then we gonn aget the transaction receipt and we are not gonna do  <br>
+anything with the transaction receipt <br>
+
+
 
 
 
