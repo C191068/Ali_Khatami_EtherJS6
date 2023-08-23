@@ -130,6 +130,8 @@ We expect the currentfavorite number to return zero but return this weired hex t
 
 So solidity can't use decimel places and javascript has a hard time with decimel places  <br>
 
+and this can be more rational for why not to use numbers <br>
+
 
 
 
