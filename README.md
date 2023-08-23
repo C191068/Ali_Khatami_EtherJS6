@@ -141,6 +141,11 @@ we will see javascript use strings like this  ``` "100000000000" ```  <br>
 
 We have made it more readable by adding toString() at the end <br>
 
+to print out the string version of the favorite number <br>
+
+
+
+
 
 
 
