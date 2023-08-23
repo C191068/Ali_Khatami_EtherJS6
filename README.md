@@ -237,6 +237,10 @@ Then we get the updated favorite number and we will just print it out <br>
 At last successfully we get the updated favorite number <br>
 
 
+![d51](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/07403e33-b7c9-49ba-b7d7-76b5326b23b8)
+
+We can see at our ganache transaction we now have a contract call at the top <br>
+
 
 
 
