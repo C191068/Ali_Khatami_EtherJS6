@@ -196,6 +196,10 @@ When we call the function on the contract we get transaction response <br>
 
 When we wait for the transaction to finish we get transaction receipt <br>
 
+![d43](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/13cbb023-b13c-47cf-ac31-37f57ffa2ced)
+
+Then we use the above line of code to update favorite number <br>
+
 
 
 
