@@ -1,4 +1,4 @@
-# Ali_Khatami_EtherJs6(Learning from the video of Patrick Collins)
+![image](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/30951282-19a0-4df5-b46b-984e1f580d8c)# Ali_Khatami_EtherJs6(Learning from the video of Patrick Collins)
 
 ### Interacting with Contracts in Ethersjs
 
@@ -119,6 +119,10 @@ and we get this big number response <br>
 BigNumber is a library that comes with ethers application that helps us work with numbers <br>
 
 we can find it at this link https://docs.ethers.org/v5/api/utils/bignumber/ <br>
+
+![d33](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/0551764c-d8e7-490d-8885-214ff269c563)
+
+they also ahve a section called ```Why can't I just use numbers?``` <br>
 
 
 
