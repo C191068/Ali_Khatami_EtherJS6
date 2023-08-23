@@ -154,6 +154,10 @@ We can use something called string interpolation <br>
 
 So we can interpolate our string with variable and use the backtick symbol  <br>
 
+![d37](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/2c2a7735-7a94-4df4-bff8-82a9629c4895)
+
+So we use the above code and tell javascript that it is a variable that we want to read <br>
+
 
 
 
