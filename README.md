@@ -253,6 +253,9 @@ Ethers is just doing that backend for us <br>
 so that we don't have to make big transaction object <br>
 
 
+Thus we have successfully deployed smart contarct to our ouwn javascript <br>
+virtual machine <br>
+
 
 
 
