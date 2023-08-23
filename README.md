@@ -128,6 +128,10 @@ they also ahve a section called ```Why can't I just use numbers?``` <br>
 
 We expect the currentfavorite number to return zero but return this weired hex thing <br>
 
+So solidity can't use decimel places <br>
+
+
+
 
 
 
