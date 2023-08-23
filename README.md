@@ -223,6 +223,10 @@ We gonna update our contarct by calling store which is gona cost gas  <br>
 So this is a transaction <br>
 
 
+![d48](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/353d821a-a3f1-4758-b3d0-29b403254ade)
+
+So this is the transaction receipt <br>
+
 
 
 
