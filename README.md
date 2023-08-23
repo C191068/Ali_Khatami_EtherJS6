@@ -104,6 +104,8 @@ here we can see that retrieve is a view function <br>
 
 If viw and pure function are called outside of the contarct function call <br>
 
+It will not cost any gas <br>
+
 
 
 
