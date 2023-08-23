@@ -150,6 +150,8 @@ Now if we re run this code we get zero which make sense because our favorite num
 
 Now just amke our console.log a little bit more syntactical <br>
 
+We can use something called string interpolation <br>
+
 
 
 
