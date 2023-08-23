@@ -245,6 +245,8 @@ We can see at our ganache transaction we now have a contract call at the top <br
 
 here we can see the transaction data <br>
 
+This transaction data is what get sent at data slot of our transaction object <br>
+
 
 
 
