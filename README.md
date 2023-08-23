@@ -169,6 +169,9 @@ We put some dollar sign and bracket here <br>
 we can get current favorite number equal to zero <br>
 
 
+Now we wil update the contract by calling the store function <br>
+
+
 
 
 
