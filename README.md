@@ -172,6 +172,9 @@ we can get current favorite number equal to zero <br>
 Now we wil update the contract by calling the store function <br>
 
 
+![d40](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/f5caa9aa-a36c-4144-970d-037c3b459a85)
+
+It is better to pass number as strings to contract functions  <br>
 
 
 
