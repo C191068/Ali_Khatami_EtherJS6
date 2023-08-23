@@ -116,6 +116,9 @@ thus our contract  is successfully deployed <br>
 
 and we get this big number response <br>
 
+BigNumber is a library that comes with ethers application that helps us work with numbers <br>
+
+
 
 
 
