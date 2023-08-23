@@ -118,6 +118,7 @@ and we get this big number response <br>
 
 BigNumber is a library that comes with ethers application that helps us work with numbers <br>
 
+we can find it at this link https://docs.ethers.org/v5/api/utils/bignumber/ <br>
 
 
 
