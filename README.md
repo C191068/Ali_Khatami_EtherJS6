@@ -192,6 +192,13 @@ It is similiar to the above <br>
 But little bit different because first one is using contract.factory and another is using <br>
 function of the contract <br>
 
+When we call the function on the contract we get transaction response <br>
+
+When we wait for the transaction to finish we get transaction receipt <br>
+
+
+
+
 
 
 
