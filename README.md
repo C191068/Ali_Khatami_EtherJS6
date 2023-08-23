@@ -232,6 +232,10 @@ anything with the transaction receipt <br>
 
 Then we get the updated favorite number and we will just print it out <br>
 
+![d50](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/9f78a5d6-c94b-4a16-bca7-3abb074751a2)
+
+At last successfully we get the updated favorite number <br>
+
 
 
 
