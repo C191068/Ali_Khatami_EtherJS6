@@ -228,6 +228,10 @@ So this is a transaction <br>
 Then we gonn aget the transaction receipt and we are not gonna do  <br>
 anything with the transaction receipt <br>
 
+![d49](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/44cb2515-1684-48a4-a3f0-73f748184f6f)
+
+Then we get the updated favorite number and we will just print it out <br>
+
 
 
 
