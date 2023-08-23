@@ -241,6 +241,9 @@ At last successfully we get the updated favorite number <br>
 
 We can see at our ganache transaction we now have a contract call at the top <br>
 
+![d52](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/4b874666-d833-4628-86b2-840514ef9215)
+
+here we can see the transaction data <br>
 
 
 
