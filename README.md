@@ -111,6 +111,12 @@ We are just reading of the blockchain but not changing any variable on chain  <b
 
 So retrieve function will not cot any gas <br>
 
+![d32](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/3483556e-bb3b-4ba3-a1b3-e44f0615914c)
+thus our contract  is successfully deployed <br>
+
+and we get this big number response <br>
+
+
 
 
 
