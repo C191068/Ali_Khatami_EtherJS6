@@ -159,6 +159,10 @@ So we can interpolate our string with variable and use the backtick symbol  <br>
 So we use the above code and tell javascript that it is a variable that we want to read <br>
 
 
+![d38](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/c25ba7a4-69b7-45f9-b922-bbb87f7dcb0c)
+
+We put some dollar sign and bracket here <br>
+
 
 
 
