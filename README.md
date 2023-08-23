@@ -189,6 +189,9 @@ here we have to wait for one block confirmation <br>
 
 It is similiar to the above <br>
 
+But little bit different because first one is using contract.factory and another is using <br>
+function fo the contract <br>
+
 
 
 
