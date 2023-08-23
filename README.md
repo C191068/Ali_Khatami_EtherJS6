@@ -132,6 +132,9 @@ So solidity can't use decimel places and javascript has a hard time with decimel
 
 and this can be more rational for why not to use numbers <br>
 
+Most of the time we will see instaed of numbers we will see strings <br>
+
+
 
 
 
