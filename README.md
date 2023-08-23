@@ -143,6 +143,11 @@ We have made it more readable by adding toString() at the end <br>
 
 to print out the string version of the favorite number <br>
 
+![d36](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/acf526a2-6e73-46e9-9067-f8ef9208b464)
+
+Now if we re run this code we get zero which make sense because our favorite number get initialized to zero <br>
+
+
 
 
 
