@@ -220,6 +220,10 @@ we are gettuing the initial value <br>
 
 We gonna update our contarct by calling store which is gona cost gas  <br>
 
+So this is a transaction <br>
+
+
+
 
 
 
