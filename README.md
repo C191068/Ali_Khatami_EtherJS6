@@ -1,4 +1,4 @@
-![image](https://github.com/C191068/Ali_Khatami_EtherJS6/assets/89090776/30951282-19a0-4df5-b46b-984e1f580d8c)# Ali_Khatami_EtherJs6(Learning from the video of Patrick Collins)
+# Ali_Khatami_EtherJs6(Learning from the video of Patrick Collins)
 
 ### Interacting with Contracts in Ethersjs
 
